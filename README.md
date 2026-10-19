@@ -8,4 +8,6 @@
 
 **CC0 Attributions:**<br>
 Sounds (Door Open/Close, Keypress) - Pixabay<br>
+Sounds (Mouse Click) - [Pixeliota](https://freesound.org/people/Pixeliota/sounds/678248/)<br>
+Cursor Icons - [Kenney](https://kenney.nl/assets/cursor-pack)<br>
 PSX Office Assets - [valsekamerplant](https://valsekamerplant.itch.io/psx-style-opulent-office)
